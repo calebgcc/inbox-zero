@@ -8035,6 +8035,7 @@ msgstr "ラベルの準備ができました"
 msgid "Language"
 msgstr "言語"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last 3 months"
 msgstr "過去3か月"
@@ -8052,6 +8053,7 @@ msgstr "過去1日"
 msgid "Last delivery failed {0}"
 msgstr "前回の配信に失敗しました:{0}"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last month"
 msgstr "先月"
@@ -8073,10 +8075,12 @@ msgstr "最終更新"
 msgid "Last used"
 msgstr "最終使用"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last week"
 msgstr "先週"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last year"
 msgstr "昨年"
@@ -13626,6 +13630,10 @@ msgstr "1 日 2 回"
 #: components/CommandK.tsx
 msgid "Type a command or search..."
 msgstr "コマンドを入力または検索..."
+
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
+msgid "Type a date"
+msgstr "日付を入力"
 
 #: app/(app)/[emailAccountId]/assistant/settings/WritingStyleSetting.tsx
 msgid "Typical Length: 2-3 sentences\n"

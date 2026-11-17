@@ -8035,6 +8035,7 @@ msgstr "Labels are ready"
 msgid "Language"
 msgstr "Language"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last 3 months"
 msgstr "Last 3 months"
@@ -8052,6 +8053,7 @@ msgstr "Last day"
 msgid "Last delivery failed {0}"
 msgstr "Last delivery failed {0}"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last month"
 msgstr "Last month"
@@ -8073,10 +8075,12 @@ msgstr "Last Updated"
 msgid "Last used"
 msgstr "Last used"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last week"
 msgstr "Last week"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last year"
 msgstr "Last year"
@@ -13626,6 +13630,10 @@ msgstr "Twice daily"
 #: components/CommandK.tsx
 msgid "Type a command or search..."
 msgstr "Type a command or search..."
+
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
+msgid "Type a date"
+msgstr "Type a date"
 
 #: app/(app)/[emailAccountId]/assistant/settings/WritingStyleSetting.tsx
 msgid "Typical Length: 2-3 sentences\n"

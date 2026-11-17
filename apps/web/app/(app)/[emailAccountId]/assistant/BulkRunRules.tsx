@@ -235,6 +235,7 @@ export function BulkRunRules() {
                   value={startDate}
                   placeholder={t`Set start date`}
                   disabled={isRunActive}
+                  showPresets
                 />
                 <SetDateDropdown
                   onChange={(date) => {

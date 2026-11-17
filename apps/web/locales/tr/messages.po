@@ -8035,6 +8035,7 @@ msgstr "Etiketler hazır"
 msgid "Language"
 msgstr "Dil"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last 3 months"
 msgstr "Son 3 ay"
@@ -8052,6 +8053,7 @@ msgstr "Son gün"
 msgid "Last delivery failed {0}"
 msgstr "Son teslimat başarısız oldu: {0}"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last month"
 msgstr "Geçen ay"
@@ -8073,10 +8075,12 @@ msgstr "Son güncelleme"
 msgid "Last used"
 msgstr "Son kullanım"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last week"
 msgstr "Geçen hafta"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last year"
 msgstr "Geçen yıl"
@@ -13626,6 +13630,10 @@ msgstr "Günde iki kez"
 #: components/CommandK.tsx
 msgid "Type a command or search..."
 msgstr "Bir komut yazın veya arayın..."
+
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
+msgid "Type a date"
+msgstr "Bir tarih yazın"
 
 #: app/(app)/[emailAccountId]/assistant/settings/WritingStyleSetting.tsx
 msgid "Typical Length: 2-3 sentences\n"
