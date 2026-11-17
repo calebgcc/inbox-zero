@@ -8035,6 +8035,7 @@ msgstr "라벨이 준비됐어요"
 msgid "Language"
 msgstr "언어"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last 3 months"
 msgstr "최근 3개월"
@@ -8052,6 +8053,7 @@ msgstr "최근 하루"
 msgid "Last delivery failed {0}"
 msgstr "마지막 전송 실패: {0}"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last month"
 msgstr "지난달"
@@ -8073,10 +8075,12 @@ msgstr "마지막 업데이트"
 msgid "Last used"
 msgstr "마지막 사용"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last week"
 msgstr "지난주"
 
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
 #: components/DatePickerWithRange.tsx
 msgid "Last year"
 msgstr "작년"
@@ -13626,6 +13630,10 @@ msgstr "하루 두 번"
 #: components/CommandK.tsx
 msgid "Type a command or search..."
 msgstr "명령어를 입력하거나 검색하세요..."
+
+#: app/(app)/[emailAccountId]/assistant/SetDateDropdown.tsx
+msgid "Type a date"
+msgstr "날짜 입력"
 
 #: app/(app)/[emailAccountId]/assistant/settings/WritingStyleSetting.tsx
 msgid "Typical Length: 2-3 sentences\n"
